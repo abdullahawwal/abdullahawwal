@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @abdullahawwal
-- 👀 I’m interested in Software Programming.
-- 🥇 I have programmed software for business company.
-- 🌱 I’m currently learning Machine Language, C++, Java.
+- 👀 I’m interested in Web Application Development.
+- 🥇 I have worked with IT companies also as a freelancer.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on facebook - https://www.facebook.com/abdullah.awwal.me
+- 📫 How to reach me on facebook - (https://www.facebook.com/abdullahawwal46)
 
 <!---
 abdullahawwal/abdullahawwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
